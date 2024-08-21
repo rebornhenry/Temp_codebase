@@ -7,7 +7,6 @@ To address the inconsistency between the classification and regression branches 
 
 ## 2. Files
 atss_head.py
-epoch_24.pth
 
 ## 3. Datasets
 - MSCOCO dataset:
